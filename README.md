@@ -1,9 +1,11 @@
 # capitals_py
 
 ![capitals_py](https://i.imgur.com/IhBZN8P.png "screenshot")​
+
 Основные команды бота
 
 ![capitals_py](https://i.imgur.com/6Rn29f1.png "screenshot")​
+
 Обработка ошибок при неправильном вводе
 
 Бот выводит столицы мира на запрос пользователя о стране, написаный на python
