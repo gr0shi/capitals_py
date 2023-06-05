@@ -3,8 +3,12 @@
 ![capitals_py](https://i.imgur.com/IhBZN8P.png "screenshot")​  
 > Основные команды бота
 
+___
+
 ![capitals_py](https://i.imgur.com/6Rn29f1.png "screenshot")​  
 > Обработка ошибок при неправильном вводе
+
+___
 
 Бот выводит столицы мира на запрос пользователя о стране, написаный на python
 
