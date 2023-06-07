@@ -4,7 +4,7 @@ import re
 from bs4 import BeautifulSoup
 
 # Токен бота
-TOKEN = "***********YOUR_TOKEN***********"
+TOKEN = "*******YOUR_TOKEN*******"
 
 # Создаем экземпляр бота
 bot = telebot.TeleBot(TOKEN)
